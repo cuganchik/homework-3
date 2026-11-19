@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 24px;
+  color: #243044;
+  background: #eef2f7;
+  font-family: Arial, sans-serif;
+}
+
+.report {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px;
+  background: #fff;
+  border: 1px solid #d5dce6;
+  border-radius: 12px;
+}
+
+.summary-card {
+  display: inline-block;
+  width: 38%;
+  min-height: 58px;
+  margin: 8px;
+  padding: 16px;
+  color: #243044;
+  background: #e7f0ff;
+  border: 1px solid #bfd2ef;
+  border-radius: 8px;
+  vertical-align: top;
+}
+
+.result-list {
+  padding-left: 0;
+  list-style: none;
+}
+
+.result-item {
+  margin: 8px 0;
+  padding: 12px 16px;
+  color: #243044;
+  background: #f7f9fc;
+  border: 1px solid #d5dce6;
+  border-radius: 6px;
+}
+
+.result-name {
+  font-weight: 700;
+}
